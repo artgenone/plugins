@@ -1,4 +1,4 @@
-#Rutorrent Plugins
+Rutorrent Plugins
 
 MOD	throttle to 1 gb lan
 
